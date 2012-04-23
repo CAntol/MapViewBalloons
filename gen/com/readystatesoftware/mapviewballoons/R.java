@@ -16,6 +16,7 @@ public final class R {
         public static int balloon_overlay_close=0x7f020002;
         public static int balloon_overlay_focused=0x7f020003;
         public static int balloon_overlay_unfocused=0x7f020004;
+        public static int balloon_overlay_unfocused2=0x7f020005;
     }
     public static final class id {
         public static int balloon_close=0x7f040001;
