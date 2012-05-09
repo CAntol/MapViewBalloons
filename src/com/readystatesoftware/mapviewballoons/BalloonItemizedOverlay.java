@@ -271,7 +271,6 @@ public abstract class BalloonItemizedOverlay<Item extends OverlayItem> extends I
 					closeRegion.setVisibility(View.GONE);
 				} else {
 					closeRegion.setOnClickListener(new OnClickListener() {
-						@Override
 						public void onClick(View v) {
 							hideBalloon();	
 						}
